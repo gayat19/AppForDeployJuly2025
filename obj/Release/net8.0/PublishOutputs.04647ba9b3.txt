@@ -1,0 +1,11 @@
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\SampleAppForDeployment.exe
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\appsettings.Development.json
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\appsettings.json
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\SampleAppForDeployment.dll
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\SampleAppForDeployment.deps.json
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\SampleAppForDeployment.runtimeconfig.json
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\SampleAppForDeployment.pdb
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C4RlRx+UTA76aKsouVnrZTVEx/bVm1eYtQHkVOtZfcI=",
+  "Source": "SampleAppForDeployment",
+  "BasePath": "_content/SampleAppForDeployment",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
