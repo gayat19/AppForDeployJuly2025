@@ -30,3 +30,4 @@ C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Debug\net8.0\refint\S
 C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Debug\net8.0\SampleAppForDeployment.pdb
 C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Debug\net8.0\SampleAppForDeployment.genruntimeconfig.cache
 C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Debug\net8.0\ref\SampleAppForDeployment.dll
+C:\Users\gayat\OneDrive\Desktop\SampleAppForDeployment\obj\Debug\net8.0\SampleAppForDeployment.sourcelink.json
